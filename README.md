@@ -14,13 +14,10 @@ Introduction
 
 Investigation begins with the fundamental assumption that every atom is submerged in space and continuously vibrates, generating waves that propagate throughout the surrounding environment. This vibration occurs at a resonant frequency, allowing each atom to produce one wave at a time. These waves are intrinsic to the atomic structure and are perpetually present, influencing the behavior of nearby particles.
 When a particle is emitted or rejected from an atom, it tends to travel toward regions in space characterized by the highest wave amplitudes. These positions correspond to the greatest probability of locating the particle, as dictated by the probability function derived from wave behavior. This relationship between the emitted particles and the wave amplitudes provides essential insights into the dynamics of particle movement and the formation of interference patterns observed in the double-slit experiment. By understanding this interaction, we can better comprehend how particles behave in a quantum context and address the misconceptions surrounding the duality of wave and particle nature. This framework serves as the basis for model, which posits a clear distinction between the roles of particles and waves in the quantum realm. Figure illustrates the propagation of a single wave, where the amplitudes are represented by a color gradient.This visual representation aids in understanding how the emitted particle will preferentially occupy positions with maximum amplitude, corresponding to the highest probability of finding the particle in space.
-
-
 ![Figure_4](https://github.com/user-attachments/assets/dc952b68-7125-4b51-b877-ad785e6280ee)
-
 The underlying principles of wave propagation are crucial to our exploration of the relationship between wave behavior and particle position in the context of the double-slit experiment. By modeling this dynamic, we can develop a deeper insight into the mechanics of quantum behavior and further elucidate the particle-wave duality.
 
-
+![Figure_5](https://github.com/user-attachments/assets/5d98bc22-b199-4747-a68e-bafbe078332d)
 
 
 
